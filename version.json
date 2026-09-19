@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.1/Dungeon.Scripts.exe",
-  "notes": "Fix: bundle meter_data.json (was causing 'CV config missing' on launch)",
+  "version": "1.0.2",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.2/Dungeon.Scripts.exe",
+  "notes": "New black & red UI. Type exact values on the Timing tab (double-click a value). Version now shown next to your profile. Detection + shooting engine updated to the latest. Fixes the app closing itself on busy PCs. Smoother, more reliable updates.",
   "required": false
 }
