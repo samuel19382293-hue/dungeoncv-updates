@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.3/Dungeon.Scripts.exe",
-  "notes": "All-new black & red look with modern fonts and animations. Titan Link and Account pages redesigned; the app now remembers your Discord sign-in. Display Screen capture fixed (steady frames, matches the capture card) and the Timing slider now works at low values. Smoother Remote Play output. Pressing Start now scans your cameras automatically.",
+  "version": "1.0.4",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.4/Dungeon.Scripts.exe",
+  "notes": "Detection hardening: eliminated false fires from static/bright objects, court lines, HUD graphics. Stale-reference fixes prevent repeated fires from lingering dim features. Fresh-meter watch catches real meters in busy screens even when locked on junk. Release timing improved (mean error 65ms→7ms). Controller auto-detect on Start, Discord login memory, Display Screen capture fixes all included.",
   "required": false
 }
