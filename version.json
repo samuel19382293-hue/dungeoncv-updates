@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.4/Dungeon.Scripts.exe",
-  "notes": "Detection hardening: eliminated false fires from static/bright objects, court lines, HUD graphics. Stale-reference fixes prevent repeated fires from lingering dim features. Fresh-meter watch catches real meters in busy screens even when locked on junk. Release timing improved (mean error 65ms→7ms). Controller auto-detect on Start, Discord login memory, Display Screen capture fixes all included.",
+  "version": "1.0.6",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.6/Dungeon.Scripts.exe",
+  "notes": "Remote Play detection improvements (compressed stream tuning, +35ms latency lead). NEW: 2K26 No Meter Edition tab with profile management, shot modes (Tempo/Fade variants/No-dip), 6 parameter controls, Titan bridge output. Settings auto-save to JSON.",
   "required": false
 }
