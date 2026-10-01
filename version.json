@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.6/Dungeon.Scripts.exe",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.6/Dungeon.Scripts.v1.0.6.exe",
   "notes": "Remote Play detection improvements (compressed stream tuning, +35ms latency lead). NEW: 2K26 No Meter Edition tab with profile management, shot modes (Tempo/Fade variants/No-dip), 6 parameter controls, Titan bridge output. Settings auto-save to JSON.",
   "required": false
 }
