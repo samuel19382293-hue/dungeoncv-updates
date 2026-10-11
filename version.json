@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.7/DungeonScripts.exe",
-  "notes": "HOTFIXES: 404 update error fixed (URL correction). PS5 Remote Play now correctly detected as 'PlayStation 5' instead of 'Xbox' in Guided Connect. Includes all v1.0.6 features (Remote Play improvements, 2K26 No Meter tab).",
+  "version": "1.0.4",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.4/Dungeon.Scripts.exe",
+  "notes": "Detection hardening: eliminated false fires from static/bright objects, court lines, HUD graphics. Release timing improved. Controller auto-detect on Start, Discord login memory, Display Screen capture fixes.",
   "required": false
 }
