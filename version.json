@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.4/Dungeon.Scripts.exe",
-  "notes": "Detection hardening: eliminated false fires from static/bright objects, court lines, HUD graphics. Release timing improved. Controller auto-detect on Start, Discord login memory, Display Screen capture fixes.",
+  "version": "1.0.8",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.8/Dungeon.Scripts.exe",
+  "notes": "PS4/PS5 Remote Play fixed: the app now shows up as a PS4 controller on PlayStation (Console picker on the Controller tab). New 2K26 No Meter tab for Remote Play and Titan. Clear warnings for PS5 capture problems (HDCP / RGB Range). Replaces the broken 1.0.5-1.0.7 builds.",
   "required": false
 }
