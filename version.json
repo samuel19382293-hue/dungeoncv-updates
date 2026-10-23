@@ -1,6 +1,8 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.8/Dungeon.Scripts.exe",
-  "notes": "PS4/PS5 Remote Play fixed: the app now shows up as a PS4 controller on PlayStation (Console picker on the Controller tab). New 2K26 No Meter tab for Remote Play and Titan. Clear warnings for PS5 capture problems (HDCP / RGB Range). Replaces the broken 1.0.5-1.0.7 builds.",
-  "required": false
+  "version": "1.0.9",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.0.9/Dungeon.Scripts.exe",
+  "notes": "New look: black + lava theme, sidebar, live Play view with detection + controller, connection lights, in-game overlay (F3), compact mode, F1/F2 shortcuts. All settings and features from before are still there.",
+  "required": false,
+  "sha256": "83f1a78fa827e5de22f9016644f99e7ee0906efd09d357a08c791edd7e546877",
+  "size": 98227712
 }
