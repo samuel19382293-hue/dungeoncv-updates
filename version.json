@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.0/Dungeon.Scripts.exe",
-  "notes": "v1.1.0: Remote Play is now built in for PS5 and Xbox. Sign in, pick your console, press Connect and the game goes straight onto the video display (no separate Remote Play app needed). Bigger, cleaner, easier-to-use layout. Clear messages at every step of sign-in, linking and connecting.",
+  "version": "1.1.1",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.1/Dungeon.Scripts.exe",
+  "notes": "v1.1.1: Fixes Remote Play freezing (picture, controller and app freezing up) - it now recovers by itself in seconds, and Disconnect / closing the app always work. New: use your capture card with the built-in Remote Play (Remote Play page > CV Video > Capture card) so Remote Play only sends your controller and shots. Faster Xbox connects, smoother PlayStation stream.",
   "required": false,
-  "sha256": "c89ec9dc53e6e584ecbb5ee0b524cef0327be0737e52535e3483912e394af62f",
-  "size": 130105856
+  "sha256": "5289a8d87a5d071110d9f3772795ec163102ed9825252a78cee39b02afe6393f",
+  "size": 130113536
 }
