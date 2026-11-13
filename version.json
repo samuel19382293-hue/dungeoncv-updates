@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.3/Dungeon.Scripts.exe",
-  "notes": "v1.1.3: Steadier meter box that covers the whole meter (no more cut-off or shaking while the meter moves). Fixes a rare random flick on bright light streaks / transition effects that could look like a meter.",
+  "version": "1.1.4",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.4/Dungeon.Scripts.exe",
+  "notes": "Remote Play: no more freezes/skips on Wi-Fi bursts, no stutter while the CV is locked on, faster controller input. Connect just connects to your real controller (no off/on steps, no red slot warning). Shots go through your controller if the Titan isn't ready. Shooting back to how v1.1.2 shot.",
   "required": false,
-  "sha256": "e347d743a9c2fac5c22e115bb74c5236274343007245933e2de7f83442d4cc34",
-  "size": 232261632
+  "sha256": "5007bce23e3505e644faf115795ae2d2a5cdb6647f91bdb70b308dc449bb96fe",
+  "size": 232260608
 }
