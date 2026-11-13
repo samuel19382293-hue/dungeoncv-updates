@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.1/Dungeon.Scripts.exe",
-  "notes": "v1.1.1: Fixes Remote Play freezing (picture, controller and app freezing up) - it now recovers by itself in seconds, and Disconnect / closing the app always work. New: use your capture card with the built-in Remote Play (Remote Play page > CV Video > Capture card) so Remote Play only sends your controller and shots. Faster Xbox connects, smoother PlayStation stream.",
+  "version": "1.1.2",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.2/Dungeon.Scripts.exe",
+  "notes": "v1.1.2: New look and a smoother, GPU video display. Uses your capture card's best picture mode. Simpler meter box that no longer lags the video while tracking. Remote Play: fixes Xbox freezing on big frames, smoother PlayStation stream with packet recovery, and a Home button on the Remote Play card. Titan live inputs are now off by default (Settings) for more consistent timing.",
   "required": false,
-  "sha256": "5289a8d87a5d071110d9f3772795ec163102ed9825252a78cee39b02afe6393f",
-  "size": 130113536
+  "sha256": "a627380608abeec409b8a44270d2b9d659a1e1e9c03521c73cad20b487708f7b",
+  "size": 232235520
 }
