@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.4/Dungeon.Scripts.exe",
-  "notes": "Remote Play: no more freezes/skips on Wi-Fi bursts, no stutter while the CV is locked on, faster controller input. Connect just connects to your real controller (no off/on steps, no red slot warning). Shots go through your controller if the Titan isn't ready. Shooting back to how v1.1.2 shot.",
+  "version": "1.1.5",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.5/Dungeon.Scripts.exe",
+  "notes": "Controller no longer freezes in game - the bridge now heals itself and reconnects on its own (big fix for PS5). ViGEmBus and HidHide install automatically if missing. Cleaner Controller and Preview screens.",
   "required": false,
-  "sha256": "5007bce23e3505e644faf115795ae2d2a5cdb6647f91bdb70b308dc449bb96fe",
-  "size": 232260608
+  "sha256": "2dd67531d0ae84e96204404bdd1d0ade0b631a5f13cd039aa2dd6c557657ee8d",
+  "size": 241022976
 }
