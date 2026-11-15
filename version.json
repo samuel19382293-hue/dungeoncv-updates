@@ -1,8 +1,8 @@
 {
-  "version": "1.1.6",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.6/Dungeon.Scripts.exe",
-  "notes": "Meter box now locks onto the meter: no more drifting, shaking or cutting the meter off when it moves. Sharper, smoother video preview. Titan reconnects by itself when the app opens. Controller fixes: if the game stops responding press Replug controller (or hold L3 + R3 for 2 seconds); Remote Play input now recovers by itself. Stabilizer coming soon.",
+  "version": "1.1.7",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.7/Dungeon.Scripts.exe",
+  "notes": "Security update: the app's detection settings now load from the server each time you open it (signed and locked to your PC), so a cracked or copied app no longer works. Make sure you're signed in and online when you launch.",
   "required": false,
-  "sha256": "0d53a1bf13538eb27c86b8510d03207715f4220381bd6a78c52a534d777a8a77",
-  "size": 241176064
+  "sha256": "b183ddc536b10b29eb19b0ec4de250a375c1b89c70c28cc42605f1912e77e402",
+  "size": 241193472
 }
