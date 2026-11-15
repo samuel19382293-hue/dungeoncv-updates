@@ -1,8 +1,8 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.5/Dungeon.Scripts.exe",
-  "notes": "Controller no longer freezes in game - the bridge now heals itself and reconnects on its own (big fix for PS5). ViGEmBus and HidHide install automatically if missing. Cleaner Controller and Preview screens.",
+  "version": "1.1.6",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.6/Dungeon.Scripts.exe",
+  "notes": "Meter box now locks onto the meter: no more drifting, shaking or cutting the meter off when it moves. Sharper, smoother video preview. Titan reconnects by itself when the app opens. Controller fixes: if the game stops responding press Replug controller (or hold L3 + R3 for 2 seconds); Remote Play input now recovers by itself. Stabilizer coming soon.",
   "required": false,
-  "sha256": "2dd67531d0ae84e96204404bdd1d0ade0b631a5f13cd039aa2dd6c557657ee8d",
-  "size": 241022976
+  "sha256": "0d53a1bf13538eb27c86b8510d03207715f4220381bd6a78c52a534d777a8a77",
+  "size": 241176064
 }
