@@ -1,8 +1,8 @@
 {
-  "version": "1.1.7",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.7/Dungeon.Scripts.exe",
-  "notes": "Security update: the app's detection settings now load from the server each time you open it (signed and locked to your PC), so a cracked or copied app no longer works. Make sure you're signed in and online when you launch.",
+  "version": "1.1.8",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.8/Dungeon.Scripts.exe",
+  "notes": "Fixes 'CV config missing' on some PCs: the detection config now retries automatically and loads itself when you press Start. Stabilizer coming soon.",
   "required": false,
-  "sha256": "b183ddc536b10b29eb19b0ec4de250a375c1b89c70c28cc42605f1912e77e402",
-  "size": 241193472
+  "sha256": "4717032b6ad3ce7b5edff3ebd0256fc5deada0c586c72cb16520cfcc28efce95",
+  "size": 241177088
 }
