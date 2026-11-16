@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.8/Dungeon.Scripts.exe",
-  "notes": "Fixes 'CV config missing' on some PCs: the detection config now retries automatically and loads itself when you press Start. Stabilizer coming soon.",
+  "version": "1.1.9",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.9/Dungeon.Scripts.exe",
+  "notes": "Remote Play: game sound now plays (PlayStation + Xbox) with speaker pick and volume; Xbox mic for in-game chat. 2K26 No Meter tab now red. Stabilizer tab removed. CV shots always reach the console (Titan with controller-bridge backup).",
   "required": false,
-  "sha256": "4717032b6ad3ce7b5edff3ebd0256fc5deada0c586c72cb16520cfcc28efce95",
-  "size": 241177088
+  "sha256": "b243d5931e54db48dcee7ecce750a3015aefd962b9c99c88599180b351e4c16e",
+  "size": 241132032
 }
