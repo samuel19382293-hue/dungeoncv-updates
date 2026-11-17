@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.2.0/Dungeon.Scripts.exe",
-  "notes": "Licensing is now validated through the config server across all trusted registries, so access and the detection config stay consistent on every update. Server-side ban enforcement added. No change to how you use the app.",
+  "version": "1.2.1",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.2.1/Dungeon.Scripts.exe",
+  "notes": "Controller drivers: HidHide is now optional and no longer shows a hard error if it needs a restart to finish installing - the app works without it meanwhile. Licensing unchanged.",
   "required": false,
-  "sha256": "96e7736c29250a4550df582b72e5007fd40bcb115be6d62e9161694aadc292bd",
-  "size": 241140224
+  "sha256": "ad0b328d6014559917b00641793a393c25b889ab834b423ed05a7445a0247cad",
+  "size": 241135104
 }
