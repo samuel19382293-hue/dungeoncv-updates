@@ -1,8 +1,8 @@
 {
-  "version": "1.1.9",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.1.9/Dungeon.Scripts.exe",
-  "notes": "Remote Play: game sound now plays (PlayStation + Xbox) with speaker pick and volume; Xbox mic for in-game chat. 2K26 No Meter tab now red. Stabilizer tab removed. CV shots always reach the console (Titan with controller-bridge backup).",
+  "version": "1.2.0",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.2.0/Dungeon.Scripts.exe",
+  "notes": "Licensing is now validated through the config server across all trusted registries, so access and the detection config stay consistent on every update. Server-side ban enforcement added. No change to how you use the app.",
   "required": false,
-  "sha256": "b243d5931e54db48dcee7ecce750a3015aefd962b9c99c88599180b351e4c16e",
-  "size": 241132032
+  "sha256": "96e7736c29250a4550df582b72e5007fd40bcb115be6d62e9161694aadc292bd",
+  "size": 241140224
 }
