@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.2.1/Dungeon.Scripts.exe",
-  "notes": "Controller drivers: HidHide is now optional and no longer shows a hard error if it needs a restart to finish installing - the app works without it meanwhile. Licensing unchanged.",
+  "version": "1.2.2",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.2.2/Dungeon.Scripts.exe",
+  "notes": "Remote Play: fixes the controller going dead\n  after a long session, plus sign-in no longer falsely reports it cannot reach the access server.",
   "required": false,
-  "sha256": "ad0b328d6014559917b00641793a393c25b889ab834b423ed05a7445a0247cad",
-  "size": 241135104
+  "sha256": "b6f226b993907c4ea403b625c86032472ece3266aa66f01f463401542cedd65a",
+  "size": 241105920
 }
