@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.2.2/Dungeon.Scripts.exe",
-  "notes": "Remote Play: fixes the controller going dead\n  after a long session, plus sign-in no longer falsely reports it cannot reach the access server.",
+  "version": "1.2.3",
+  "url": "https://github.com/samuel19382293-hue/dungeoncv-updates/releases/download/v1.2.3/Dungeon.Scripts.exe",
+  "notes": "Humanizer toggle for a natural flick, pick any\n  controller, ViGEmBus install tab, HidHide removed, and sign-in reliability fixes.",
   "required": false,
-  "sha256": "b6f226b993907c4ea403b625c86032472ece3266aa66f01f463401542cedd65a",
-  "size": 241105920
+  "sha256": "d365fad5d6a1526e02e96df1f5906a7d1beda9ef947964df501ebdaa239be4ee",
+  "size": 236091904
 }
